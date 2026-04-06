@@ -1,4 +1,4 @@
-# Jo's mod of virus game!
+# mod of virus game!
 I might add stuff here if I feel like it. it's fun to add more stuff to this project.
 here's a misc. and potentially incomplete list of changes/stuff added:
 -  viruses now have a 10% chance to mutate every time they are created from a cell.
